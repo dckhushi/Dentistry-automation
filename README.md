@@ -301,12 +301,10 @@ npm run dev
 
 ---
 
-# 👩‍💻 Author
 
-**Khushi**
 
-MSc Integrated Data Science Student
-AI • Voice Automation • Agentic Systems • Healthcare AI
+
+
 
 ---
 
